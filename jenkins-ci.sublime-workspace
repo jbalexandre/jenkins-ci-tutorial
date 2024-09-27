@@ -1,0 +1,529 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data",
+				"database"
+			],
+			[
+				"http_80_from_self_to_",
+				"http_80_from_self_to_ecs"
+			],
+			[
+				"log",
+				"log_group"
+			],
+			[
+				"a",
+				"alb"
+			],
+			[
+				"out",
+				"output\toutput block"
+			],
+			[
+				"availab",
+				"availability_zones"
+			],
+			[
+				"outp",
+				"output\toutput block"
+			],
+			[
+				"var",
+				"variableE\tvariable (empty)"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"variable",
+				"variableE\tvariable (empty)"
+			],
+			[
+				"projet",
+				"project_name"
+			],
+			[
+				"fla",
+				"FLAG_DIR"
+			],
+			[
+				"varia",
+				"variableS\tvariable (string)"
+			],
+			[
+				"el",
+				"elif"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Dockerfile",
+			"settings":
+			{
+				"buffer_size": 564,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jbalexandre/Workspace/sanboxes/jenkins-ci"
+	],
+	"file_history":
+	[
+		"/home/jbalexandre/Workspace/jenkins-ci/Dockerfile",
+		"/home/jbalexandre/.gitconfig-d-box",
+		"/home/jbalexandre/.gitconfig",
+		"/home/jbalexandre/.ssh/config",
+		"/home/jbalexandre/.bash_profile",
+		"/home/jbalexandre/.bashrc",
+		"/home/jbalexandre/Workspace/documentation/setup-my-machine/install-base-workstation.notes",
+		"/home/jbalexandre/Workspace/documentation/setup-my-machine/install-devops-tools.notes",
+		"/home/jbalexandre/.aws/credentials",
+		"/home/jbalexandre/.aws/config",
+		"/home/jbalexandre/Workspace/projects/cleanup-tf-env.sh",
+		"/home/jbalexandre/Workspace/projects/tf.cleanup",
+		"/home/jbalexandre/Workspace/projects/terraform-create-module/bin/tf-module.sh",
+		"/home/jbalexandre/Workspace/projects/terraform-create-module/bin/tf-deploy.sh",
+		"/home/jbalexandre/Workspace/projects/terraform-create-module/templates/README-deploy.md",
+		"/home/jbalexandre/Workspace/projects/terraform-create-module/bin/tf-default.sh",
+		"/home/jbalexandre/Downloads/red-prod-powerdata-api-svc-values.yaml",
+		"/home/jbalexandre/Documents/PeRsO/Creds/linkedin - jean-baptiste.alexandre@kryptiklabs.io - authenticator - ESPGARLH7ZIS5XZXTFZWNKUXYCTLZFEP.txt",
+		"/home/jbalexandre/.ssh/jbalexandre",
+		"/home/jbalexandre/.ssh/git.auth",
+		"/home/jbalexandre/.gitconfig-intrado",
+		"/home/jbalexandre/Documents/Common/Root/.bashrc",
+		"/home/jbalexandre/.zshrc",
+		"/home/jbalexandre/Workspace/documentation/setup-my-machine/install-base-omotunde.notes",
+		"/home/jbalexandre/Workspace/documentation/devops.notes",
+		"/home/jbalexandre/Documents/Common/Root/.aws/config",
+		"/home/jbalexandre/Documents/Common/Root/.aws/credentials",
+		"/run/media/jbalexandre/Docspace/Common/Root/.bashrc",
+		"/run/media/jbalexandre/Docspace/Common/Root/.aws/credentials",
+		"/home/jbalexandre/Workspace/kl.sublime-project",
+		"/home/jbalexandre/Workspace/taskfiles/protonvpn.yml",
+		"/home/jbalexandre/Workspace/taskfiles/k8s.yml",
+		"/home/jbalexandre/Workspace/projet-corpo/_tools/cicd-create-project/README.md",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex/projects/ciin.ca/ciin/.gitgnore",
+		"/home/jbalexandre/Workspace/projet-corpo/_tools/cicd-create-project/templates/TODO",
+		"/home/jbalexandre/Workspace/projet-corpo/_tools/create-new-client.sh",
+		"/home/jbalexandre/Workspace/projet-corpo/tools/create-new-client.sh",
+		"/home/jbalexandre/Workspace/projet-corpo/tools/cicd-create-project/README.md",
+		"/home/jbalexandre/Workspace/projet-corpo/tools/cicd-create-project/bin/create-cicd-project.sh",
+		"/home/jbalexandre/Workspace/projet-corpo/tools/cicd-create-project/create-cicd-project.sh",
+		"/home/jbalexandre/Workspace/projet-corpo/tools/create-cicd-project.sh",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-systems/aws_alb.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/notes5.txt",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-database/aws_rds_cluster.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-common/aws_kms_key.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-common/aws_s3_bucket.tf",
+		"/home/jbalexandre/Workspace/projet-corpo/sanboxes/terraform-deploy-r53-pgdn-io/variables.tf",
+		"/home/jbalexandre/Workspace/projet-corpo/sanboxes/terraform-deploy-r53-pgdn-io/main.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-database/variables.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-database/aws_rds_cluster_instance.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/TODO",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/TODO",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/dns-hosted-zone-transfer/elb-cloudfront-dns-names.csv",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/notes4.txt",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-dns/dns-records/import-dns-entries.txt",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/dns-hosted-zone-transfer/lesaffairesplus-com-dns-entries-input",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/dns-hosted-zone-transfer/lesaffairesplus-com-dns-entries-input-01",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-common/datasources.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-common/variables.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-dns/aws_hosted_zones.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-common/aws_acm_certificate.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-dns/datasources.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-dns/variables.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-dns/aws_a_records.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/dns-hosted-zone-transfer/dns-entries-input-02",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/dns-hosted-zone-transfer/dns-entries-input-01",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/dns-hosted-zone-transfer/lesaffaires-com-entrees.brut",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/dns-hosted-zone-transfer/lesaffaires-com-entrees.new",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/les-affaires/containers/nginx/Dockerfile",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/notes2.txt",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/les-affaires/containers/nginx/host.conf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/les-affaires/Makefile",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/les-affaires/bootstrap.sh",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/les-affaires/website/bedrock/config/application.php",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/les-affaires/containers/php-fpm/Dockerfile",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/les-affaires/docker-compose.yml",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/les-affaires/.gitignore",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-database/datasources.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-database/aws_elasticache_cluster.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/tmp/website/bedrock/web/app/themes/lesAffaires/node_modules/unique-filename/coverage/prettify.css",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-network/datasources.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-network/variables.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-network/aws_security_group.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/tools/app-dump-latest-db/Taskfile.yml",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/notes3.txt",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/notes.txt",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/les-affaires/website/env/.env",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-common/README.md",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-database/variables.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-database/README.md",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-database/aws_rds_cluster.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-database/aws_db_subnet_group.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-database/aws_rds_cluster_instance.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-database/aws_db_option_group.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-database/aws_db_parameter_group.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-database/datasources.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-network/aws_security_group.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-common/outputs.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-common/variables.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-common/aws_ecr_repository.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-common/outputs.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-common/aws_ecr_repository.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-common/aws_kms_key.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-common/resource-explorer-view.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-common/providers.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-common/providers.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-common/datasources.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-common/aws_s3_bucket_policy.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-common/aws_s3_bucket_policy.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-common/aws_s3_bucket.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-common/aws_dynamodb_table.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-common/aws_dynamodb_table.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-network/datasources.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-network/variables.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-network/vpc.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-network/vpc.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-network/subnet.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-network/subnet.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-network/route-table.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-network/route-table.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-network/route-rules.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-network/route-rules.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-network/resource-explorer-view.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-network/resource-explorer-view.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-network/providers.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-network/providers.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-lesaffaires/repos/lesaffaires.com/terraform-deploy-lesaffaires-network/outputs.tf",
+		"/home/jbalexandre/Workspace/projets-clients/grp-contex-ciin/repos/ciin.ca/terraform-deploy-ciin-network/outputs.tf"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 382.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			" ",
+			"profile ",
+			"protec",
+			"task",
+			"cdd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Dockerfile",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": "= $-",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-dockerfile"
+								}
+							],
+							"copilot.completion._is_modified": false,
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_visible_panel_completions": false,
+							"copilot.completion.is_waiting_completion": false,
+							"copilot.completion.is_waiting_panel_completions": false,
+							"copilot.completion.original_layout": null,
+							"lsp_active": true,
+							"lsp_uri": "file:///home/jbalexandre/Workspace/sanboxes/jenkins-ci/Dockerfile",
+							"show_definitions": false,
+							"syntax": "Packages/Dockerfile Syntax Highlighting/Syntaxes/Dockerfile.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"copilot.completion.is_visible": false,
+							"lsp_active": true,
+							"lsp_uri": "buffer:798",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 130.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups-dummy":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jenkins-ci.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspace/clients/intrado/pd.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 391.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 652.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"copilot.conversation.code_block_index":
+		{
+		},
+		"copilot.conversation.conversation_entries":
+		[
+		],
+		"copilot.conversation.conversation_id": "",
+		"copilot.conversation.follow_up": "",
+		"copilot.conversation.is_visible": false,
+		"copilot.conversation.is_waiting_conversation": false,
+		"copilot.conversation.last_active_view_id": 249,
+		"copilot.conversation.original_layout": null,
+		"copilot.conversation.reference_block_state":
+		{
+		},
+		"copilot.conversation.suggested_title": "",
+		"copilot.copilotignore.patterns":
+		{
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
